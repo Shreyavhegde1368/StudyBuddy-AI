@@ -21,3 +21,5 @@ Currently under development.
 
 ## Author
 Shreya V Hegde
+## Learning Git
+My first GitHub repository is successfully connected!
